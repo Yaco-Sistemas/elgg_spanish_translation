@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+  <name>Spanish Translation</name>
+  <author>Nicolás Nimis, Danny Navarro, Yaco Sistemas</author>
+  <version>1.8.0.1</version>
+  <blurb>Provides a Spanish translation for Elgg</blurb>
+  <description>Provides a Spanish translation for Elgg.</description>
+  <website>http://yaco.es</website>
+  <copyright>(C) Nicolás Nimis, Yaco Sistemas, 2011</copyright>
+  <license>GNU Public License version 2</license>
+  <requires>
+	<type>elgg_version</type>
+	<version>2011061200</version>
+  </requires>
+  <category>Language packs</category>
+  <admin_interface>simple</admin_interface>
+</plugin_manifest>
