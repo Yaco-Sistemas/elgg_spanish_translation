@@ -22,5 +22,5 @@ if(elgg_is_active_plugin("notifications")){
         'notifications:subscriptions:success' => 'Su configuraci&oacute;n de notificaciones ha sido guardada',
 
     );
-    add_translation("es", $spanish);
+    add_translation("es", $language);
 }

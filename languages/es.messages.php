@@ -9,7 +9,7 @@ if(elgg_is_active_plugin("messages")){
         'messages:back' => "regresar a mensajes",
         'messages:user' => "Bandeja de entrada de %s",
         'messages:posttitle' => "Mensajes de %s: %s",
-        'messages:inbox' => "Bandeja de entrada",
+        'messages:inbox' => "Buzón de correo",
         'messages:send' => "Enviar",
         'messages:sent' => "Enviado",
         'messages:message' => "Mensaje",
@@ -18,7 +18,6 @@ if(elgg_is_active_plugin("messages")){
         'messages:from' => "De",
         'messages:fly' => "Enviar",
         'messages:replying' => "Mensaje en respuesta a",
-        'messages:inbox' => "Bandeja de entrada",
         'messages:sendmessage' => "Enviar un mensaje",
         'messages:compose' => "Redactar",
         'messages:add' => "Redactar",
@@ -84,5 +83,5 @@ if(elgg_is_active_plugin("messages")){
         'messages:deleted_sender' => 'Usuario eliminado',
 
     );
-    add_translation("es", $spanish);
+    add_translation("es", $language);
 }

@@ -1,6 +1,6 @@
 <?php
 
-if(elgg_is_active_plugin("dashboard")){
+if(elgg_is_active_plugin("groups")){
     $language = array(
         /**
          * Menu items and titles

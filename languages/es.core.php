@@ -262,7 +262,7 @@ $language = array(
 /**
  * Dashboard and widgets
  */
-	'dashboard' => "Panel de control",
+	'dashboard' => "Escritorio",
 	'dashboard:nowidgets' => "Su panel de control le permite seguir la actividad y el contenido que le interesan de este sitio",
 
 	'widgets:add' => 'Agregar widget',
