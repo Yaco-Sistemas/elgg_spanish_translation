@@ -9,7 +9,7 @@ if(elgg_is_active_plugin("messages")){
         'messages:back' => "regresar a mensajes",
         'messages:user' => "Bandeja de entrada de %s",
         'messages:posttitle' => "Mensajes de %s: %s",
-        'messages:inbox' => "Buzón de correo",
+        'messages:inbox' => "Buzón",
         'messages:send' => "Enviar",
         'messages:sent' => "Enviado",
         'messages:message' => "Mensaje",
